@@ -1,0 +1,7 @@
+train: C:\Users\DELL\anaconda3\envs\yolov8_custom2\train
+val: C:\Users\DELL\anaconda3\envs\yolov8_custom2\val
+test: C:\Users\DELL\anaconda3\envs\yolov8_custom2\test
+
+nc: 5
+
+names: ["calculator1", "calculator2", "wallet051023", "wallet020923", "wallet180923"]
